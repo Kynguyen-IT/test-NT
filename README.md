@@ -4,20 +4,11 @@
 
 This project includes a web test, demonstrating the functionality and responsiveness of the web page across both desktop and mobile views.
 
-## Screenshots
+# Web Test Results
 
-Below are the screenshots showing the web page in both desktop and mobile views:
+## Overview
 
-### Desktop View
-![Desktop View](./public//images/desktop-1.png)
-![Desktop View](./public//images/desktop-2.png)
-
-### Mobile View
-![Desktop View](./public//images/mobile-1.png)
-![Desktop View](./public//images/mobile-2.png)
-![Desktop View](./public//images/mobile-3.png)
-![Desktop View](./public//images/mobile-4.png)
-
+This project includes a web test, demonstrating the functionality and responsiveness of the web page across both desktop and mobile views.
 
 ## Getting Started
 
@@ -55,3 +46,19 @@ npm run dev or yarn dev
 npm run build or yarn build
 ```
 
+## Deployment
+The project has been deployed and is live at: https://test-nt.vercel.app/
+
+## Screenshots
+
+Below are the screenshots showing the web page in both desktop and mobile views:
+
+### Desktop View
+![Desktop View](./public//images/desktop-1.png)
+![Desktop View](./public//images/desktop-2.png)
+
+### Mobile View
+![Desktop View](./public//images/mobile-1.png)
+![Desktop View](./public//images/mobile-2.png)
+![Desktop View](./public//images/mobile-3.png)
+![Desktop View](./public//images/mobile-4.png)
